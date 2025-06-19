@@ -57,5 +57,4 @@ Finally, BigQuery serves as the data source for Looker Studio. We configure a Lo
 
 ---
 
-## Folder Structure (optional)
 

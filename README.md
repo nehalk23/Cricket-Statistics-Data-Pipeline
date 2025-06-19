@@ -1,10 +1,9 @@
-Building a Cricket Statistics Pipeline with Google Cloud Services
 
-In the world of data engineering, the journey from data retrieval to insightful visualization is an adventure filled with challenges and rewards. In this guide, we’ll walk through the intricate steps of constructing a comprehensive cricket statistics pipeline using Google Cloud services. From retrieving data via the Cricbuzz API to crafting a dynamic Looker Studio dashboard, each phase contributes to the seamless flow of data for analysis and visualization.
+
 
 ![image](https://github.com/user-attachments/assets/cb4dbdea-1da2-4135-b305-6e99b12e43dc)
 
-![image](https://github.com/user-attachments/assets/afcdbfc7-768c-41a7-ae7b-288b7c2527d6)
+
 
 # Cricbuzz Data Pipeline with Google Cloud
 
@@ -41,6 +40,8 @@ The heart of the pipeline lies in the Dataflow job. Triggered by the Cloud Funct
 
 ### 6. Looker Dashboard Creation
 Finally, BigQuery serves as the data source for Looker Studio. We configure a Looker dashboard that connects to BigQuery and presents the ingested cricket data in a visually rich and interactive format for insights and analysis.
+
+![image](https://github.com/user-attachments/assets/afcdbfc7-768c-41a7-ae7b-288b7c2527d6)
 
 ---
 
